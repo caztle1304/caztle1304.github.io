@@ -14,7 +14,7 @@ output:
  
 ## Bio
 
-Currently studying 4th semester of the Undergraduate Program in Genomic Sciences and involved in a COVID patients sequencing project at National Institute of Respiratory Diseases (INER).
+Currently studying 4th semester of the Undergraduate Program in Genomic Sciences and involved in a COVID patients sequencing project at National Institute of Respiratory Diseases (INER). Interested in bioinformatics and programming with Python, R and C. My favorite topics are prions, infectious diseases, epidemiology, virology and genetic/complex diseases.
 
 ## Education
 
